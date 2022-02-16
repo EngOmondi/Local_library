@@ -1,6 +1,8 @@
 {
   "name": "express-locallibrary-tutorial",
   "version": "0.0.0",
+  "author": "Fidel Omondi Otieno",
+  "description": "A local library project made by Eng. Fidel Omondi",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
